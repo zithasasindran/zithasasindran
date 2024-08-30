@@ -6,4 +6,4 @@ I have contributed to various projects, including the development of resource-ef
 
 Feel free to explore my repositories to learn more about my research and contributions to the field.
 
-- 📫 How to reach me: Email me @zithasasindran@gmail.co
+- 📫 How to reach me: Email me @zithasasindran@gmail.com
