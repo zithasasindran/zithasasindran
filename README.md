@@ -4,6 +4,6 @@ I am Zitha Sasindran, a dedicated researcher specializing in developing practica
 
 I have contributed to various projects, including the development of resource-efficient federated learning frameworks, automatic speech recognition solutions for resource-constrained devices, and real-time systems for traffic surveillance etc.
 
-Feel free to explore my repositories to learn more about my research and contributions to the field.
+Feel free to explore my repositories to learn more about my research (though not all of my work is publicly available!) and contributions to the field.
 
 - 📫 How to reach me: Email me @zithasasindran@gmail.com
