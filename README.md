@@ -1,9 +1,13 @@
 ## Hi there 👋
 
-<!--
-**zithasasindran/zithasasindran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Zitha Sasindran, a dedicated researcher specializing in developing practical and scalable machine learning systems for IoT embedded devices. I have completed my Ph.D. at the Indian Institute of Science (IISc), Bengaluru, in the Department of Electronic Systems Engineering. My research focuses on edge-based machine intelligence, with a proven track record of advancing this field through impactful publications and collaborative multi-disciplinary projects.
 
-Here are some ideas to get you started:
+I have contributed to various projects, including the development of resource-efficient federated learning frameworks, automatic speech recognition solutions for resource-constrained devices, and real-time systems for traffic surveillance etc.
+
+Feel free to explore my repositories to learn more about my research and contributions to the field.
+
+
+I am Zitha Sasindran. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
